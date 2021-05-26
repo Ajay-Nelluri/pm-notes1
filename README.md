@@ -36,3 +36,5 @@ A process is a series of actions directed towards a particular result
  * Product backlog
  * Sprint backlog
  * Burndown chart
+
+<img src="/docs/logo.png" alt="My cool logo"/>
